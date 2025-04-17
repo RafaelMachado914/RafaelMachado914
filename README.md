@@ -25,10 +25,12 @@ Um pouco sobre mim e meus interesses
 
 ## Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="30em" width="40" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMachado914&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="30em" width="40" src="https://github-readme-stats.vercel.app/api?username=RafaelMachado914&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/RafaelMachado914">
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMachado914&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=RafaelMachado914&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
