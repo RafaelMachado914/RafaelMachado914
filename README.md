@@ -10,7 +10,7 @@ Um pouco sobre mim e meus interesses
 
 🛠️possuo curso sobre fundamentos de hardware;
 
-🌐Estou aprendendo a linguagem html;
+🌐Estou aprendendo html e css;
 
 ☕ Estou aprendendo a linguagem de programação Java;
 
