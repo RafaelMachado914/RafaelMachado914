@@ -1,6 +1,6 @@
 <div>
-<h3> Olá, me chamo Rafael </h3> 
-<h3> Bem vindo ao meu perfil </h3>
+<h2> Olá, me chamo Rafael </h2> 
+<h2> Bem vindo ao meu perfil </h2>
 <h1>Um pouco sobre mim e meus interesses</h1> </br>
 
 💻 Estou estudando Ciência da Computação no IFSC - Lages;
@@ -20,11 +20,14 @@
 ## <h1>👋Entre em contato comigo</h1>
 
 
-✉️email: rafael.2004.machado17@gmail.com
+<a href="rafael.2004.machado17@gmail.com">
+  <img src="https://th.bing.com/th/id/R.229079c8f5240851cece598cf8eee770?rik=JND2PKmC%2fxzB1w&riu=http%3a%2f%2fpngimg.com%2fuploads%2femail%2femail_PNG11.png&ehk=6sNwAjueFilXp3tCehLPbXDGgZgsYZdR7y6dZ3vpSk4%3d&risl=&pid=ImgRaw&r=0"  height="50" width="50 >
+</a>
 
+<a href="https://www.linkedin.com/in/rafael-machado-9a1b59262/"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="50" width="50 />
+  </a>
 </div>
-
-💼linkedin: https://www.linkedin.com/in/rafael-machado-9a1b59262/
 
 <div>
   
