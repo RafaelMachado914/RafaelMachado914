@@ -32,7 +32,7 @@
 
 <div>
   
-<h1> Ferramentas e Tecnologias </h1>
+##<h1>Ferramentas e Tecnologia </h1>
 
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
 <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
