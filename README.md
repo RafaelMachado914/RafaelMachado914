@@ -5,9 +5,11 @@
 
 💻 Estou estudando Ciência da Computação no IFSC - Lages;
 
-📖 Também possuo curso de informática;
+🖥️ possuo curso de informática;
 
 🛠️possuo curso sobre fundamentos de hardware;
+
+🎮 possuo curso de game dev, 2d e unity;
 
 🌐Estou aprendendo html, javascript e css;
 
@@ -20,14 +22,16 @@
 <div>
   
 <h1> Ferramentas e tecnologias </h1>
+<br><br>
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /> 
 <img height="50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> 
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-<br>
-<br><br>
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+          
+<br><br><br>
           
 </div>
 
