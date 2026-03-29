@@ -33,7 +33,7 @@ Sou movido em busca da minha melhor versão
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMachado914&layout=donut&theme=dark)](https://github.com/RafaelMachado914/github-readme-stats)
+
 
 </div>
 
