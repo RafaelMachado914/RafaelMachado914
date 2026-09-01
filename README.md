@@ -12,11 +12,12 @@
 ## 🧠 Sobre mim
 
 - 🎓 Estudante de Ciência da Computação no IFSC - Lages  
-- 🖥️ Curso de Informática 
+- 🖥️ Curso de Informática
+- 🐱 Git e gitHub
+- 🛜 Redes e Protocolos:Fundamentos da web 
 - 📱 Manutenção de celulares
 - 🌐 Aprendendo HTML, CSS e JavaScript  
-- ☕ Estudando Java  
-- 🐍 Desenvolvendo com python   
+- ☕ Estudando Java     
 
 Sou movido em busca da minha melhor versão
 
@@ -27,6 +28,7 @@ Sou movido em busca da minha melhor versão
 <div align="center">
 
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nhibernate/nhibernate-original-wordmark.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
