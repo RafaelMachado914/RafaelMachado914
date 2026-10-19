@@ -26,7 +26,7 @@ Sou movido em busca da minha melhor versão
 ## 🛠️ Tecnologias que estou utilizando
 
 <div align="center">
-
+</br>
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
@@ -34,16 +34,17 @@ Sou movido em busca da minha melhor versão
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-          
-          
-          
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />                 
 </br>
-
-
-
+</br>
+<\br>
 </div>
 
+
+<div align="center">
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=RafaelMachado914&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMachado914&layout=compact&show_icons=true&theme=chartreuse-dark"/>
+</div>
 
 ## 📬 Vamos conversar?
 
