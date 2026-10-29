@@ -37,12 +37,12 @@ Sou movido em busca da minha melhor versão
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />                 
 </br>
 </br>
-<\br>
 </div>
 
 
 <div align="center">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=RafaelMachado914&show_icons=true&theme=chartreuse-dark"/>
+  <img src="https://streak-stats.demolab.com?user=RafaelMachado914&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
   <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMachado914&layout=compact&show_icons=true&theme=chartreuse-dark"/>
 </div>
 
